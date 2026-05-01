@@ -49,9 +49,9 @@ MAE (Mean Absolute Error)
 RMSE (Root Mean Squared Error)
 R² Score (Coefficient of Determination)
 
-MAE: 0.533
-RMSE: 0.746
-R² Score: 0.576
+MAE: 0.533;
+RMSE: 0.746;
+R² Score: 0.576;
 
 6. Results & Visualization
 A scatter plot of Actual vs Predicted values was created
